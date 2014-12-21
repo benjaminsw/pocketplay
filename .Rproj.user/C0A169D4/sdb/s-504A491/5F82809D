@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1419142365785.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "5F82809D",
+    "lastKnownWriteTime" : 7741240723082584096,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "retriesversion",
+        "contentUrl" : "content?title=retriesversion&file=8b9ef6fe3c48431daaa0542b8de8331d.htm",
+        "displayedObservations" : 13,
+        "displayedVariables" : 6,
+        "totalObservations" : 13,
+        "variables" : 5
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
