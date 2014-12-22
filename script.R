@@ -91,6 +91,4 @@ muversion <- cbind(muvdf, muv2df$Mode)
 colnames(muversion)[4] <- "Mode"
 write.csv(muversion, file = 'muversion.csv')
 
-library(ggplot2)
-
 #written by Benjamin  21/12/14
